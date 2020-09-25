@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: User Experience Engineering
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: User Experience Engineering
+subheading: Learn to build the front of the front end properly
 mainpitch:
-  title: Why Kaldi
+  title: Why UXE?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    User Experience Engineering is for people who care about people who care
+    about software built properly.
+description: We can build sites in less than 5 minutes if we really want to.
+  With only about, like, 20 clicks and some typing I just got this whole website
+  up and running, including forms, logins and a CMS.
 intro:
   blurbs:
     - image: /img/coffee.png
